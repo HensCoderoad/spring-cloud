@@ -1,0 +1,25 @@
+server:
+  port: 8081
+eureka:
+  instance:
+    prefer-ip-address: true
+    hostname: localhost
+  client:
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:8085/eureka/,http://${eureka.instance.hostname}:8086/eureka/,http://${eureka.instance.hostname}:8761/eureka/
+spring:
+  application:
+    name: consumer
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutmilliseconds: 1000
+feign:
+  hystrix:
+    enabled: true
+
+
+
