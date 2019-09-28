@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://E:/spring-cloud-controller" charset="UTF-8" />
+    <file url="file://E:/spring-eureka-client" charset="UTF-8" />
+    <file url="file://E:/spring-eureka-server" charset="UTF-8" />
+    <file url="file://E:/spring-eureka-server1" charset="UTF-8" />
+    <file url="file://E:/spring-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
