@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistentConfig">
+    <option name="historyConfigList">
+      <map>
+        <entry key="tb_content">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="TbContentMapper" />
+              <option name="daoPackage" value="com.funtl.oauth2.resources.mapper" />
+              <option name="daoPostfix" value="Mapper" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-resource" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="TbContent" />
+              <option name="modelPackage" value="com.funtl.oauth2.resources.domain" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-resource" />
+              <option name="name" value="tb_content" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/spring-security-oauth2-resource" />
+              <option name="tableName" value="tb_content" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="com.funtl.oauth2.resources.mapper" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-resource" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="tb_content_category">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="src/main/java" />
+              <option name="daoName" value="TbContentCategoryMapper" />
+              <option name="daoPackage" value="com.funtl.oauth2.resources.mapper" />
+              <option name="daoPostfix" value="Mapper" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-resource" />
+              <option name="modelMvnPath" value="src/main/java" />
+              <option name="modelName" value="TbContentCategory" />
+              <option name="modelPackage" value="com.funtl.oauth2.resources.domain" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-resource" />
+              <option name="name" value="tb_content_category" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/spring-security-oauth2-resource" />
+              <option name="tableName" value="tb_content_category" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="src/main/resources" />
+              <option name="xmlPackage" value="com.funtl.oauth2.resources.mapper" />
+              <option name="xmlTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-resource" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="tb_permission">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="" />
+              <option name="daoName" value="TbPermissionMapper" />
+              <option name="daoPackage" value="com.funtl.oauth2.server.mapper" />
+              <option name="daoPostfix" value="Mapper" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java" />
+              <option name="modelMvnPath" value="" />
+              <option name="modelName" value="TbPermission" />
+              <option name="modelPackage" value="com.funtl.oauth2.server.domain" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java" />
+              <option name="name" value="tb_permission" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java" />
+              <option name="tableName" value="tb_permission" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="" />
+              <option name="xmlPackage" value="com.funtl.oauth2.server.mapper" />
+              <option name="xmlTargetFolder" value="E:\workspace\spring-security-oauth2\spring-security-oauth2-server\src\main\resources" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="tb_role">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="" />
+              <option name="daoName" value="TbRoleMapper" />
+              <option name="daoPackage" value="com.funtl.oauth2.server.mapper" />
+              <option name="daoPostfix" value="Mapper" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java" />
+              <option name="modelMvnPath" value="" />
+              <option name="modelName" value="TbRole" />
+              <option name="modelPackage" value="com.funtl.oauth2.server.domain" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java" />
+              <option name="name" value="tb_role" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java" />
+              <option name="tableName" value="tb_role" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="" />
+              <option name="xmlPackage" value="com.funtl.oauth2.server.mapper" />
+              <option name="xmlTargetFolder" value="E:\workspace\spring-security-oauth2\spring-security-oauth2-server\src\main\resources" />
+            </Config>
+          </value>
+        </entry>
+        <entry key="tb_user">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoMvnPath" value="" />
+              <option name="daoName" value="TbUserMapper" />
+              <option name="daoPackage" value="com.funtl.oauth2.server.mapper" />
+              <option name="daoPostfix" value="Mapper" />
+              <option name="daoTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java" />
+              <option name="modelMvnPath" value="" />
+              <option name="modelName" value="TbUser" />
+              <option name="modelPackage" value="com.funtl.oauth2.server.domain" />
+              <option name="modelTargetFolder" value="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java" />
+              <option name="name" value="tb_user" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="primaryKey" value="id" />
+              <option name="projectFolder" value="$PROJECT_DIR$/spring-security-oauth2-server/src/main/java" />
+              <option name="tableName" value="tb_user" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlMvnPath" value="" />
+              <option name="xmlPackage" value="com.funtl.oauth2.server.mapper" />
+              <option name="xmlTargetFolder" value="E:\workspace\spring-security-oauth2\spring-security-oauth2-server\src\main\resources" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="initConfig">
+      <map>
+        <entry key="initConfig">
+          <value>
+            <Config>
+              <option name="comment" value="true" />
+              <option name="daoPackage" value="generator" />
+              <option name="daoPostfix" value="Dao" />
+              <option name="daoTargetFolder" value="" />
+              <option name="modelPackage" value="generator" />
+              <option name="modelTargetFolder" value="" />
+              <option name="name" value="initConfig" />
+              <option name="needToStringHashcodeEquals" value="true" />
+              <option name="offsetLimit" value="true" />
+              <option name="overrideXML" value="true" />
+              <option name="projectFolder" value="" />
+              <option name="useExample" value="true" />
+              <option name="useSchemaPrefix" value="true" />
+              <option name="xmlPackage" value="generator" />
+              <option name="xmlTargetFolder" value="" />
+            </Config>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="users">
+      <map>
+        <entry key="jdbc:mysql://localhost:3306/oauth">
+          <value>
+            <User>
+              <option name="username" value="root" />
+            </User>
+          </value>
+        </entry>
+        <entry key="jdbc:mysql://localhost:3306/test">
+          <value>
+            <User>
+              <option name="username" value="root" />
+            </User>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
