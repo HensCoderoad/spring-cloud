@@ -1,0 +1,22 @@
+server:
+   port: 8088
+spring:
+   application:
+      name: shiro
+   datasource:
+      url: jdbc:mysql://localhost:3306/enceladus?serverTimezone=UTC&characterEncoding=utf-8
+      username: root
+      password: root
+      driver-class-name: com.mysql.cj.jdbc.Driver
+   jpa:
+      database: mysql
+      showSql: true
+      hibernate:
+         ddlAuto: update
+      properties:
+         hibernate:
+            dialect: org.hibernate.dialect.MySQL5Dialect
+            format_sql: true
+      open-in-view: true
+   main:
+     allow-bean-definition-overriding: true
